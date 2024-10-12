@@ -16,5 +16,5 @@ I'm a passionate **Fullstack Developer** and **Game Development Instructor** wit
 
   
 ## Let's Connect!
-- LinkedIn: [yassin-sultan](https://www.linkedin.com/in/yassin-sultan/))
+- LinkedIn: [yassin-sultan](https://www.linkedin.com/in/yassin-sultan/)
 - GitHub: [YassinGamal](https://github.com/YassinSultan)
